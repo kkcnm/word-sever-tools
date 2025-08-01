@@ -78,3 +78,4 @@ Valid notices will be handled per GPL-3.0 requirements.
 - src/main.ts
 - 改成你的本地局域网ip即可
 - 剩下的就靠你自己探索啦 不会就去学啦！
+- https://discord.gg/YbFP2nX3XN
