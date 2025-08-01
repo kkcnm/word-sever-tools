@@ -73,8 +73,8 @@ Valid notices will be handled per GPL-3.0 requirements.
 > This project provides no technical support. Users assume all risks. Continued use constitutes acceptance of these terms.
 
 
-你需要更改的ts文件有 
-src/config.ts
-src/main.ts
-改成你的本地局域网ip即可
-剩下的就靠你自己探索啦 不会就去学啦！
+-你需要更改的ts文件有 
+-src/config.ts
+-src/main.ts
+-改成你的本地局域网ip即可
+-剩下的就靠你自己探索啦 不会就去学啦！
